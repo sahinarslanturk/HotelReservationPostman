@@ -6,3 +6,4 @@ Environment,param,headers,body,Pre-request Script,Tests sekmeleri kullanılarak 
 
 
 
+![alt text](https://ibb.co/0BxCQfH)
